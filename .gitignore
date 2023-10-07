@@ -1,0 +1,8 @@
+test.ipynb
+data\origin\adult.test
+
+__pycache__
+
+data/result/*
+data/process/*
+cache/*
